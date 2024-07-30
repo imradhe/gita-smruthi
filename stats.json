@@ -1,0 +1,128 @@
+[
+    {
+        "adhyaya": 1,
+        "slokas": 47,
+        "name": "अर्जुनविषादयोगः",
+        "transliteration": "Arjuna vishada yoga",
+        "description": "The distress of Arjuna"
+    },
+    {
+        "adhyaya": 2,
+        "slokas": 72,
+        "name": "साङ्ख्ययोगः",
+        "transliteration": "Sankhya yoga",
+        "description": "The yoga of knowledge"
+    },
+    {
+        "adhyaya": 3,
+        "slokas": 43,
+        "name": "कर्मयोगः",
+        "transliteration": "Karma yoga",
+        "description": "The yoga of action"
+    },
+    {
+        "adhyaya": 4,
+        "slokas": 42,
+        "name": "ज्ञानकर्मसंन्यासयोगः",
+        "transliteration": "Jnana karma sannyasa yoga",
+        "description": "The yoga of renunciation of action with knowledge"
+    },
+    {
+        "adhyaya": 5,
+        "slokas": 29,
+        "name": "कर्मसंन्यासयोगः",
+        "transliteration": "Karma sannyasa yoga",
+        "description": "The yoga of renunciation of action"
+    },
+    {
+        "adhyaya": 6,
+        "slokas": 47,
+        "name": "ध्यानयोगः",
+        "transliteration": "Dhyana yoga",
+        "description": "The yoga of meditation"
+    },
+    {
+        "adhyaya": 7,
+        "slokas": 30,
+        "name": "ज्ञानविज्ञानयोगः",
+        "transliteration": "Jnana vijnana yoga",
+        "description": "The yoga of knowledge and realization"
+    },
+    {
+        "adhyaya": 8,
+        "slokas": 28,
+        "name": "अक्षरब्रह्मयोगः",
+        "transliteration": "Akshara brahma yoga",
+        "description": "The yoga of the imperishable Brahman"
+    },
+    {
+        "adhyaya": 9,
+        "slokas": 34,
+        "name": "राजविद्याराजगुह्ययोगः",
+        "transliteration": "Raja vidya raja guhya yoga",
+        "description": "The yoga of the royal knowledge and the royal secret"
+    },
+    {
+        "adhyaya": 10,
+        "slokas": 42,
+        "name": "विभूतियोगः",
+        "transliteration": "Vibhuti yoga",
+        "description": "The yoga of divine manifestations"
+    },
+    {
+        "adhyaya": 11,
+        "slokas": 55,
+        "name": "विश्वरूपदर्शनयोगः",
+        "transliteration": "Vishvarupa darshana yoga",
+        "description": "The yoga of the vision of the universal form"
+    },
+    {
+        "adhyaya": 12,
+        "slokas": 20,
+        "name": "भक्तियोगः",
+        "transliteration": "Bhakti yoga",
+        "description": "The yoga of devotion"
+    },
+    {
+        "adhyaya": 13,
+        "slokas": 35,
+        "name": "क्षेत्रक्षेत्रज्ञविभागयोगः",
+        "transliteration": "Kshetra kshetrajna vibhaga yoga",
+        "description": "The yoga of the distinction between the field and the knower of the field"
+    },
+    {
+        "adhyaya": 14,
+        "slokas": 27,
+        "name": "गुणत्रयविभागयोगः",
+        "transliteration": "Guna traya vibhaga yoga",
+        "description": "The yoga of the division of the three modes"
+    },
+    {
+        "adhyaya": 15,
+        "slokas": 20,
+        "name": "पुरुषोत्तमप्राप्तियोगः",
+        "transliteration": "Purushottama prapti yoga",
+        "description": "The yoga of attaining the supreme person"
+    },
+    {
+        "adhyaya": 16,
+        "slokas": 24,
+        "name": "दैवासुरसम्पत्विभाग योग",
+        "transliteration": "Daiva asura sampat vibhaga yoga",
+        "description": "The yoga of the division of the divine and the demonic qualities"
+    },
+    {
+        "adhyaya": 17,
+        "slokas": 28,
+        "name": "श्रद्धात्रयविभागयोगः",
+        "transliteration": "Shraddha traya vibhaga yoga",
+        "description": "The yoga of the division of the three kinds of faith"
+    },
+    {
+        "adhyaya": 18,
+        "slokas": 78,
+        "name": "मोक्षसंन्यासयोगः",
+        "transliteration": "Moksha sannyasa yoga",
+        "description": "The yoga of liberation by renunciation"
+    }
+]
